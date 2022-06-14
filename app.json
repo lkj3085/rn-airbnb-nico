@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-airbnb-nico",
+    "slug": "rn-airbnb-nico",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-airbnb-nico"
+}
